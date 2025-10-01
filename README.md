@@ -23,8 +23,8 @@ It uses [Playwright](https://playwright.dev/) to handle Wix's heavy JavaScript, 
 Clone this repo and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/detoxexport.git
-cd detoxexport
+git clone https://github.com/tstanescu1/wix-export-toolkit.git
+cd wix-export-toolkit
 
 npm install
 npx playwright install
