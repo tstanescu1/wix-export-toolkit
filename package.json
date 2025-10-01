@@ -1,0 +1,21 @@
+{
+  "name": "detoxexport",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fs-extra": "^11.3.2",
+    "gray-matter": "^4.0.3",
+    "playwright": "^1.55.1",
+    "slugify": "^1.6.6",
+    "turndown": "^7.2.1",
+    "xmlbuilder2": "^3.1.1"
+  }
+}
